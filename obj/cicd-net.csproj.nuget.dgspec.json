@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\aws\\cicd-net\\cicd-net.csproj": {}
+    "f:\\aws\\cicd-net\\cicd-net.csproj": {}
   },
   "projects": {
-    "F:\\aws\\cicd-net\\cicd-net.csproj": {
+    "f:\\aws\\cicd-net\\cicd-net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\aws\\cicd-net\\cicd-net.csproj",
+        "projectUniqueName": "f:\\aws\\cicd-net\\cicd-net.csproj",
         "projectName": "cicd-net",
-        "projectPath": "F:\\aws\\cicd-net\\cicd-net.csproj",
+        "projectPath": "f:\\aws\\cicd-net\\cicd-net.csproj",
         "packagesPath": "C:\\Users\\nvtan\\.nuget\\packages\\",
-        "outputPath": "F:\\aws\\cicd-net\\obj\\",
+        "outputPath": "f:\\aws\\cicd-net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nvtan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R9xw1ZVZKllpP2AzB41dn7P6ZQad66zeLgYDxz/yUWggsxMwf3efYuL0drgBlcK1S6XgbzLyxe8fxK8IYk5bHw==",
+  "dgSpecHash": "vPWtpHAceNNsNNDSZpXJx/E5nywiJ5B74enuqtomI2B0bn5/M6frWvbO6CK85drwfunchRopHhWtxvMMGpRA/A==",
   "success": true,
-  "projectFilePath": "F:\\aws\\cicd-net\\cicd-net.csproj",
+  "projectFilePath": "f:\\aws\\cicd-net\\cicd-net.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
